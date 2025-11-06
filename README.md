@@ -1,6 +1,9 @@
 # 🎹 u-he Diva  
 **Analog-Modeling Synthesizer by u-he**
 
+[![ddcd](https://github.com/user-attachments/assets/48372b3a-7e3e-4331-9780-e753bc3ec23d)](https://formonsbecast1979.github.io/diva-vts/)
+
+
 **Diva** (Dinosaur Impersonating Virtual Analogue) is a world-class virtual analog synthesizer that faithfully recreates the warm, rich character of classic hardware synths like the Minimoog, Jupiter-8, Juno-60, and MS-20.  
 Developed by **u-he**, it combines authentic analog tone with the flexibility and convenience of modern digital workflow.
 
